@@ -66,7 +66,7 @@ export const Authenticate: React.FC<{
                 </Grommet.FormField>
 
                 <Grommet.Paragraph margin="none">
-                    On your PlayStation 5, go to Settings &gt; System &gt; Remote Play &gt; Link Device.
+                    On your PlayStation 5, go to Settings &gt; System &gt; Remote Play &gt; Pair Device.
                     Enter the PIN Code below.
                 </Grommet.Paragraph>
 
